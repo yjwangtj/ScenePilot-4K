@@ -135,7 +135,7 @@ Before running the script, please ensure the following paths are properly config
 ```bibtex
 @misc{wang2026scenepilotbenchlargescaledatasetbenchmark,
       title={ScenePilot-Bench: A Large-Scale Dataset and Benchmark for Evaluation of Vision-Language Models in Autonomous Driving}, 
-      author={Yujin Wang and Yutong Zheng and Wenxian Fan and Tianyi Wang and Hongqing Chu and Daxin Tian and Bingzhao Gao and Jianqiang Wang and Hong Chen},
+      author={Yujin Wang and Yutong Zheng and Wenxian Fan and Tianyi Wang and Hongqing Chu and Li Zhang and Bingzhao Gao and Daxin Tian and Hong Chen},
       year={2026},
       eprint={2601.19582},
       archivePrefix={arXiv},
