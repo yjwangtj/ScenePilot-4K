@@ -1,7 +1,7 @@
 # **ScenePilot-4K: A Large-Scale First-Person Dataset and Benchmark for Vision-Language Models in Autonomous Driving**
 <div align="center">
   <img src="assets/The overall structure.png" width="800px">
-  <p>Figure 1: Overview of the ScenePilot-Bench dataset and evaluation metrics.</p>
+  <p>Figure 1: Overview of the ScenePilot-Bench benchmark and evaluation metrics.</p>
 </div>
 
 
