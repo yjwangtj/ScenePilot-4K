@@ -138,6 +138,12 @@ Before running the script, please ensure the following paths are properly config
 
 ---
 
+# 🤗 Data and Annotation Pipeline
+The detailed annotation pipeline resources of ScenePilot-4K are publicly available on Hugging Face. This release includes the dataset annotations, metadata, and supporting files for the annotation pipeline, which together enable a clearer understanding of how ScenePilot-4K is constructed and organized.
+
+👉 **Access the full dataset and annotation resources here:**  
+[ScenePilot-4K on Hugging Face](https://huggingface.co/datasets/larswangtj/ScenePilot-4K/tree/main)
+
 ## Citation
 
 ```bibtex
