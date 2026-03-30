@@ -1,4 +1,11 @@
 # **ScenePilot-4K: A Large-Scale First-Person Dataset and Benchmark for Vision-Language Models in Autonomous Driving**
+
+# 📄 Supplementary Material
+The supplementary material is now publicly available and includes additional details on the dataset construction pipeline, benchmark design, evaluation metrics, etc.
+
+👉 **Access the supplementary material here:**  
+[Supplementary Material (PDF)](https://drive.google.com/file/d/14CisDMqTLfFrd8PADajuL0TNR5V90BSr/view?usp=drive_link)
+
 <div align="center">
   <img src="assets/fig1.png" width="800px">
   <p>Figure 1: Overview of the ScenePilot-Bench benchmark and evaluation metrics.</p>
@@ -9,12 +16,6 @@
 [![Dataset](https://img.shields.io/badge/Dataset-Download-green?style=flat-square)](https://huggingface.co/datasets/larswangtj/ScenePilot-4K/tree/main) 
 [![Paper](https://img.shields.io/badge/Paper-Arxiv-red?style=flat-square)](https://arxiv.org/abs/2601.19582)
 [![Supplementary Material](https://img.shields.io/badge/Supplementary-Material-orange?style=flat-square)](https://drive.google.com/file/d/14CisDMqTLfFrd8PADajuL0TNR5V90BSr/view?usp=drive_link)
-
-# 📄 Supplementary Material
-The supplementary material is now publicly available and includes additional details on the dataset construction pipeline, benchmark design, evaluation metrics, etc.
-
-👉 **Access the supplementary material here:**  
-[Supplementary Material (PDF)](https://drive.google.com/file/d/14CisDMqTLfFrd8PADajuL0TNR5V90BSr/view?usp=drive_link)
 
 # 📖 Introduction
 We introduce ScenePilot-4K, a large-scale first-person driving dataset for safety-aware vision-language learning and evaluation in autonomous driving. Built from public online driving videos, ScenePilot-4K contains 3,847 hours of video and 27.7M front-view frames spanning 63 countries/regions and 1,210 cities. It jointly provides scene-level natural-language descriptions, risk assessment labels, key-participant annotations, ego trajectories, and camera parameters through a unified multi-stage annotation pipeline. Building on this dataset, we establish ScenePilot-Bench, a standardized benchmark that evaluates vision-language models along four complementary axes: scene understanding, spatial perception, motion planning, and GPT-based semantic alignment. The benchmark includes fine-grained metrics and geographic generalization settings that expose model robustness under cross-region and cross-traffic domain shifts. Baseline results on representative open-source and proprietary vision-language models show that current models remain competitive in high-level scene semantics but still exhibit substantial limitations in geometry-aware perception and planning-oriented reasoning.
