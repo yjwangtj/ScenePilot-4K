@@ -147,9 +147,9 @@ The detailed annotation pipeline resources of ScenePilot-4K are publicly availab
 ## Citation
 
 ```bibtex
-@misc{wang2026scenepilotbenchlargescaledatasetbenchmark,
-      title={ScenePilot-Bench: A Large-Scale Dataset and Benchmark for Evaluation of Vision-Language Models in Autonomous Driving}, 
-      author={Yujin Wang and Yutong Zheng and Wenxian Fan and Tianyi Wang and Hongqing Chu and Li Zhang and Bingzhao Gao and Daxin Tian and Hong Chen},
+@misc{wang2026scenepilot4klargescalefirstpersondataset,
+      title={ScenePilot-4K: A Large-Scale First-Person Dataset and Benchmark for Vision-Language Models in Autonomous Driving}, 
+      author={Yujin Wang and Yutong Zheng and Wenxian Fan and Tianyi Wang and Hongqing Chu and Li Zhang and Bingzhao Gao and Daxin Tian and Jianqiang Wang and Hong Chen},
       year={2026},
       eprint={2601.19582},
       archivePrefix={arXiv},
